@@ -17,7 +17,9 @@ body {
 }
 
 p {
-    line-height: 1.5;
+  min-width: 310px;
+  max-width: 800px;
+  line-height: 1.5;
 }
 
 
